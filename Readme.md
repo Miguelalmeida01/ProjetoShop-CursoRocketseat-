@@ -60,5 +60,14 @@ This project is a fully functional listing application built using React.The mai
  ## Web project 
  
 
+<<<<<<< HEAD
 [Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
  
+=======
+https://github.com/user-attachments/assets/077b4c21-05e8-4e45-98cb-248765418283
+
+
+
+ 
+[Back](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-money-com-react--rocketseat)
+>>>>>>> 6944a6f47490ea474e5a8b534654ac215d8f05d6
