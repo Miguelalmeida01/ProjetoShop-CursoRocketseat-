@@ -3,7 +3,7 @@
 [Portuguese](Readme-pt.md)
 
 
-# Project Delivery - Building a Money with React | Rocketseat 
+# Project Delivery - Building a Shop with React | Rocketseat 
 
 This project is a fully functional listing application built using React.The main objective of this project is to demonstrate how to build components and effectively organize its React Project using the tools and resources provided by Framework Next.
 ## Technologies Used 
@@ -60,5 +60,5 @@ This project is a fully functional listing application built using React.The mai
  ## Web project 
  
 
+[Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
  
-[Back](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-money-com-react--rocketseat)

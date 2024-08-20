@@ -7,7 +7,7 @@
 
 
 
-# Entrega de projeto - Criando um Money com React | Rocketseat
+# Entrega de projeto - Criando um Shop com React | Rocketseat
 
 Este projeto é uma aplicação de Listagem totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Next.
 
@@ -64,5 +64,5 @@ Este projeto é uma aplicação de Listagem totalmente funcional construída usa
  
 
 
-[Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
+[Back](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
 
