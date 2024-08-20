@@ -64,5 +64,9 @@ Este projeto é uma aplicação de Listagem totalmente funcional construída usa
  
 
 
+https://github.com/user-attachments/assets/e225abca-9da5-4970-bab9-7c976cde39ce
+
+
+
 [Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
 
