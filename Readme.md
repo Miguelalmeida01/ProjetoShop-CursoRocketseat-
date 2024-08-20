@@ -60,5 +60,9 @@ This project is a fully functional listing application built using React.The mai
  ## Web project 
  
 
+https://github.com/user-attachments/assets/a158efc9-2761-4afb-9748-bdd0ed0d3358
+
+
+
 [Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-shop-with-react--rocketseat)
  
