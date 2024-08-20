@@ -1,5 +1,3 @@
-<img src="img/rocketseat.svg" />
-
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
 
@@ -11,7 +9,7 @@
 
 # Entrega de projeto - Criando um Money com React | Rocketseat
 
-Este projeto é uma aplicação de Listagem totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
+Este projeto é uma aplicação de Listagem totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Next.
 
 ## Tecnologias Utilizadas
 
@@ -19,19 +17,20 @@ Este projeto é uma aplicação de Listagem totalmente funcional construída usa
 - REACT
 - CSS
 - HTML
+- NEXT
 
 ## Como Executar o Projeto
 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat.git
+   git clone https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd Money
+   cd shop
    ```
 
 3. Instale as dependências:   
@@ -52,25 +51,18 @@ Este projeto é uma aplicação de Listagem totalmente funcional construída usa
    npm i @types/styled-components -D
    ```
 
-6. Importante ter a extensão vscode-styled-components:
-
-   <img src="./img/CapturaEst.png" style="width: 39rem;"/>
-
-
-7. Acesse o projeto no navegador:
+6. Acesse o projeto no navegador:
    ```bash
    npm run dev
    ```
-8. Projeto no Figma:
+7. Projeto no Figma:
    ```bash
-   https://www.figma.com/design/5IttjElJ9SngOIGAcOHGBv/DT-Money-(Community)?node-id=42081-343&m=dev
+   https://www.figma.com/design/qf6HDhreSONf8toZbclj4y/Ignite-Shop-%E2%80%A2-Projeto-React-(Copy)?node-id=418-62&t=HuCgWMMFFs2rq4FJ-0
    ```
 
 ## Projeto na web
-<img src="img/Captura1.png" />  
+ 
 
-<img src="img/Captura2.png" />  
 
-<img src="img/Captura3.png" />  
+[Voltar](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
 
-[Voltar](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-money-com-react--rocketseat)

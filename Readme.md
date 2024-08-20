@@ -1,5 +1,3 @@
-<img src="img/rocketseat.svg" />
-
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
 [Portuguese](Readme-pt.md)
@@ -7,13 +5,14 @@
 
 # Project Delivery - Building a Money with React | Rocketseat 
 
-This project is a fully functional Listing application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and features provided by the Vite framework.
+This project is a fully functional listing application built using React.The main objective of this project is to demonstrate how to build components and effectively organize its React Project using the tools and resources provided by Framework Next.
 ## Technologies Used 
 
 - TYPE SCRIPT
 - REACT 
 - CSS 
 - HTML 
+- NEXT
 
 ## How to Run the Project 
 
@@ -25,7 +24,7 @@ This project is a fully functional Listing application built using React. The ma
 2. Navigate to the project directory: 
 
    ```bash 
-   cd Money
+   cd shop
    ``` 
 
 3. Install the dependencies: 
@@ -46,29 +45,20 @@ This project is a fully functional Listing application built using React. The ma
    npm i @types/styled-components -D 
    ``` 
 
-6. It is important to have the vscode-styled-components extension:
-
-   <img src="./img/CapturaEst.png" style="width: 39rem;"/>
-
-
-7. Access the project in the browser: 
+6. Access the project in the browser: 
 
    ```bash
    npm run dev 
    ``` 
    
-8. Design in Figma:
+7. Design in Figma:
 
    ```bash
-   https://www.figma.com/design/5IttjElJ9SngOIGAcOHGBv/DT-Money-(Community)?node-id=42081-343&m=dev
+   https://www.figma.com/design/qf6HDhreSONf8toZbclj4y/Ignite-Shop-%E2%80%A2-Projeto-React-(Copy)?node-id=418-62&t=HuCgWMMFFs2rq4FJ-0
    ``` 
 
  ## Web project 
  
- <img src="img/Captura1.png" /> 
 
- <img src="img/Captura2.png" /> 
  
- <img src="img/Captura3.png" /> 
- 
-[Back](https://github.com/Miguelalmeida01/ProjetoMoney-CursoRocketseat/tree/main?tab=readme-ov-file#project-delivery---building-a-money-with-react--rocketseat)
+[Back](https://github.com/Miguelalmeida01/ProjetoShop-CursoRocketseat-/blob/main/Readme-pt.md#entrega-de-projeto---criando-um-money-com-react--rocketseat)
